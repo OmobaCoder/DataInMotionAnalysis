@@ -20,4 +20,8 @@ This repository will contain projects and analysis of **Data In Moion Challenges
 10. Create a dashboard to summarize your insights.
 
 ## Data Sourcing
-The data was sourced directly from the web, **click [here](https://raw.githubusercontent.com/kedeisha1/Challenges/main/netflix_titles.csv) o download**
+The data was sourced directly from the web, **click [here](https://raw.githubusercontent.com/kedeisha1/Challenges/main/netflix_titles.csv) to download**
+![](getdata.png)
+## Data Transformation
+
+## Data Visualization
