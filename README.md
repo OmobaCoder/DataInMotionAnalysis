@@ -39,6 +39,7 @@ The Netflix_data Table| Calendar Table
 ![](netflix_data.png) | ![](calendar.png)
 
 **Find the modelled table below.** 
+
 Data Modelling
 ![](modelling.png)
 
