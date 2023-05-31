@@ -21,7 +21,19 @@ This repository will contain projects and analysis of **Data In Moion Challenges
 
 ## Data Sourcing
 The data was sourced directly from the web, **click [here](https://raw.githubusercontent.com/kedeisha1/Challenges/main/netflix_titles.csv) to download**
-![](getdata.png)
+![](Getdata.png)
 ## Data Transformation
+The dataset imported from the web obviously needs to be cleaned and transformed. Check out a **[video](https://www.youtube.com/watch?v=sHbrShGN6VE&t=8s)** I created where I carried out this transformation using the power query feature of power Bi.
+[See screenshot below after transformation]
+
+ The Transformed data | Applied Steps
+:--------------------:|:------------------------:
+![](Cleandata.png)    | ![](Appliedsteps.png)
+
 
 ## Data Visualization
+
+Dashboard
+![](Dashboard.png)
+
+**click [here](https://tinyurl.com/2yntyje7) to interact with my report on powerBi Service.**
