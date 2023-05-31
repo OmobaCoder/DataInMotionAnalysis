@@ -24,12 +24,23 @@ The data was sourced directly from the web, **click [here](https://raw.githubuse
 ![](Getdata.png)
 ## Data Transformation
 The dataset imported from the web obviously needs to be cleaned and transformed. Check out a **[video](https://www.youtube.com/watch?v=sHbrShGN6VE&t=8s)** I created where I carried out this transformation using the power query feature of power Bi.
-[See screenshot below after transformation]
+
+**[See screenshot below after transformation] ** 
 
  The Transformed data | Applied Steps
 :--------------------:|:------------------------:
 ![](Cleandata.png)    | ![](Appliedsteps.png)
 
+## Data Modelling
+Here I created a calendar Table and used it to establish a relationship between both Tables.
+Netflix_data Table
+The Netflix_data Table| Calendar Table
+:--------------------:|:------------------------:
+![](netflix_data.png) | ![](calendar.png)
+
+**Find the modelled table below.** 
+Data Modelling
+![](modelling.png)
 
 ## Data Visualization
 
