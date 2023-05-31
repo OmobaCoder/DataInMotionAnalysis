@@ -48,4 +48,17 @@ The Netflix_data Table| Calendar Table
 Dashboard
 ![](Dashboard.png)
 
+## Insights/Recommendations
+
+**Insight:**
+Based on the analysis of the Netflix dataset from 2008 to 2021, several key insights have been uncovered. Firstly, 2019 stood out as the year with the highest number of content additions, indicating a significant expansion of the platform. Additionally, 2019 was the most popular year for movies on Netflix, showcasing a diverse range of cinematic experiences. The top five movie genres on the platform were identified as dramas, comedies, action & adventure, children & family, and documentaries. Furthermore, the documentary "Jim & Andy" emerged as the movie with the longest title. Lastly, movies dominated the content on Netflix, accounting for 97.24%, while TV shows made up the remaining 2.76%.
+
+**Recommendation:**
+- Balance Between Movies and TV Shows: Despite the fact that Netflix is dominated by movies, it is still important to have a balanced collection of TV shows. Continuously curating a diverse range of high-quality TV shows will attract subscribers who prefer episodic storytelling and streaming experiences.
+- Diverse Content Strategy: Given the popularity of dramas, comedies, action & adventure, kids & family, and documentaries, Netflix should continue investing in a wide variety of content in these genres. This will enable them to better serve their subscribers' diverse interests and preferences.
+- Focus on Yearly Expansion: Building on the success of 2019 as the year of content, Netflix should continue prioritizing regular and substantial additions to their library each year. This will enhance subscriber engagement and satisfaction, providing them with a vast array of options.
+
+
+**By leveraging data-driven insights, Netflix can continue providing captivating and relevant content to their subscribers while staying ahead in the competitive streaming industry.**
+
 **click [here](https://tinyurl.com/2yntyje7) to interact with my report on powerBi Service.**
