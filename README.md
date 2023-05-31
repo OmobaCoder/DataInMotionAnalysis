@@ -31,6 +31,9 @@ The dataset imported from the web obviously needs to be cleaned and transformed.
 :--------------------:|:------------------------:
 ![](Cleandata.png)    | ![](Appliedsteps.png)
 
+**I also cleaned this data using jupyter notebook,see the image below.**
+![](pythoncleaning.png)
+
 ## Data Modelling
 Here I created a calendar Table and used it to establish a relationship between both Tables.
 Netflix_data Table
