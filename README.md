@@ -51,6 +51,7 @@ Dashboard
 ## Insights/Recommendations
 
 **Insight:**
+
 Based on the analysis of the Netflix dataset from 2008 to 2021, several key insights have been uncovered. Firstly, 2019 stood out as the year with the highest number of content additions, indicating a significant expansion of the platform. Additionally, 2019 was the most popular year for movies on Netflix, showcasing a diverse range of cinematic experiences. The top five movie genres on the platform were identified as dramas, comedies, action & adventure, children & family, and documentaries. Furthermore, the documentary "Jim & Andy" emerged as the movie with the longest title. Lastly, movies dominated the content on Netflix, accounting for 97.24%, while TV shows made up the remaining 2.76%.
 
 **Recommendation:**
