@@ -40,8 +40,8 @@ The Netflix_data Table| Calendar Table
 
 **Find the modelled table below.** 
 
-Data Modelling
 ![](modelling.png)
+
 
 ## Data Visualization
 
